@@ -51,11 +51,11 @@ live-server
 ### 4️⃣ Make Changes & Save
 Modify the respective **HTML, CSS/SCSS, or JavaScript** files inside the project.
 
-- **Hero Section** → `index.html` (Update `#hero`)
-- **About Me Section** → `index.html` (Update `#about`)
-- **Skills Section** → `index.html` (Update `#skills`)
-- **Projects Section** → `index.html` (Update `#projects`)
-- **Contact Section** → `index.html` (Update `#contact`)
+- **Hero Section** → `template.html` (Update `#hero`)
+- **About Me Section** → `template.html` (Update `#about`)
+- **Skills Section** → `template.html` (Update `#skills`)
+- **Projects Section** → `template.html` (Update `#projects`)
+- **Contact Section** → `template.html` (Update `#contact`)
 - **Modify Styles** → Files inside `style/sections/`
 
 ---
